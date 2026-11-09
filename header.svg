@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Assylay Matibay - Fullstack Developer and Python Backend">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1324"/><stop offset="1" stop-color="#19233c"/></linearGradient><linearGradient id="accent"><stop stop-color="#bea9ff"/><stop offset="1" stop-color="#7de2d6"/></linearGradient><pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8e9bbf" opacity=".22"/></pattern></defs>
+ <rect width="1200" height="320" rx="24" fill="url(#bg)"/><rect width="1200" height="320" rx="24" fill="url(#dots)"/>
+ <circle cx="1060" cy="80" r="170" fill="#bea9ff" opacity=".055"/><circle cx="1120" cy="250" r="155" fill="#7de2d6" opacity=".055"/>
+ <rect x="60" y="51" width="144" height="30" rx="15" fill="#28344f"/><circle cx="77" cy="66" r="5" fill="#7de2d6"/><text x="91" y="71" fill="#c9d4ec" font-family="DejaVu Sans,Arial,sans-serif" font-size="13">ALMATY, KZ</text>
+ <text x="60" y="152" fill="#f4f2ff" font-family="DejaVu Sans,Arial,sans-serif" font-size="55" font-weight="700">Assylay Matibay</text>
+ <rect x="60" y="171" width="465" height="4" rx="2" fill="url(#accent)"/>
+ <text x="60" y="216" fill="#bda7f5" font-family="DejaVu Sans,Arial,sans-serif" font-size="25" font-weight="600">Fullstack Developer  /  Python Backend</text>
+ <text x="60" y="257" fill="#b9c6df" font-family="DejaVu Sans,Arial,sans-serif" font-size="19">From business logic to reliable production systems.</text>
+ <g transform="translate(871 101)" font-family="monospace" font-size="23" fill="#7de2d6"><text x="0" y="0">&lt;build&gt;</text><text x="30" y="46" fill="#d9c5ff">design.</text><text x="30" y="80" fill="#d9c5ff">ship.</text><text x="30" y="114" fill="#d9c5ff">scale.</text><text x="0" y="155">&lt;/build&gt;</text></g>
+</svg>
