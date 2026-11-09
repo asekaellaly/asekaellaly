@@ -61,7 +61,11 @@ I build software that connects **business processes, people, and data**. My work
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=asekaellaly&theme=tokyonight&hide_border=true)
 
-<sub>Public GitHub activity represents only part of my work. Most commercial projects are hosted privately.</sub>
+<p align="center">
+  <sub>Public GitHub activity represents only part of my work.<br>Most commercial projects are hosted privately.</sub>
+</p>
+
+
 ---
 
 <div align="center">
