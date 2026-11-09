@@ -59,13 +59,9 @@ I build software that connects **business processes, people, and data**. My work
 
 ### GitHub activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asekaellaly&show_icons=true&hide_border=true&bg_color=0D1324&title_color=BDA7F5&text_color=C9D4EC&icon_color=70DDD0" alt="GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asekaellaly&layout=compact&hide_border=true&bg_color=0D1324&title_color=BDA7F5&text_color=C9D4EC" alt="Most used languages in public repositories" height="165" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=asekaellaly&theme=tokyonight&hide_border=true)
 
 <sub>Public GitHub activity represents only part of my work. Most commercial projects are hosted privately.</sub>
-
 ---
 
 <div align="center">
